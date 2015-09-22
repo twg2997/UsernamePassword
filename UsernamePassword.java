@@ -22,5 +22,6 @@ public class UsernamePassword {
 	else
 	{
 	System.out.println("Invalid password.");
+		}
 	}
 }
