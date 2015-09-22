@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class UsernamePassword {
 
 	public static void main(String[] args) {
-	String username="", password="", correctusername = "twg2997", correctpassword = "bluechip"
+	String username="", password="", correctusername = "twg2997", correctpassword = "bluechip";
 	System.out.println("What is your username?");
 	Scanner keyboard = new Scanner(System.in);
 	username = keyboard.nextLine();
